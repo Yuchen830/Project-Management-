@@ -9,7 +9,7 @@ This is a MERN Stack project designed with GraphQL, Apollo Client, and BootStrap
 
 * **JavaScript/ HTML/ CSS**
 * **MERN Stack: MongoDB Atlas Database/  Express.js/  React.js/  Node.js**
-* **GraphQL / Apollo Client/ Bootstrap UI**
+* **GraphQL/ Apollo Client/ Bootstrap UI**
 <br />
  
 ## User Cases
@@ -25,6 +25,12 @@ This is a MERN Stack project designed with GraphQL, Apollo Client, and BootStrap
 
 #### *Project Add Page*
 ![image](https://user-images.githubusercontent.com/107600887/174139451-27aa592e-a9c7-44d7-9cb6-be198529016b.png)
+
+#### *MongoDB Database Information*
+All the clients and projects information that users added, modified, and deleted will be updated in this database at the same time.
+
+![image](https://user-images.githubusercontent.com/107600887/174414822-eaafb992-d139-44a5-a016-a23ca6b36faa.png)
+
 
 
 
